@@ -7,6 +7,10 @@
 <p>
 <img src="https://api.vaunt.dev/v1/github/entities/{{AnshikaRanjan}}/achievements?format=svg&limit=3" width="350" />
 </p>
-
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/{{AnshikaRanjan}}/contributions?format=svg" width="350" />
+    </a>
+</p>
 
 
